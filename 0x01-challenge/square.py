@@ -3,7 +3,7 @@
 Square Class
 """
 
-class square():
+class Square():
     """ Square object represention  """
     width = 0
     height = 0
